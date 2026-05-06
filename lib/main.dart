@@ -43,21 +43,21 @@ const questions = [
   {
     'text': '¿Cómo reaccionas ante un problema?',
     'answers': [
-      {'text': 'Se lo dejo a alguien mas', 'char': 'Tulio'},
+      {'text': 'Me miro al espejo', 'char': 'Tulio'},
       {'text': 'Acepto un trabajo como periodista', 'char': 'Bodoque'},
-      {'text': 'AHHHHH... estamos al aire', 'char': 'Juanin'},
-      {'text': 'Haciendo un show', 'char': 'Maguito'},
+      {'text': 'AHHHHH... estamos al aire, estamos al aireee', 'char': 'Juanin'},
+      {'text': 'Haciendo un chow', 'char': 'Maguito'},
       {'text': 'Con calma, algo saldrá', 'char': 'Calcetin'},
     ],
   },
   {
     'text': '¿Cuál es tu mayor defecto?',
     'answers': [
-      {'text': 'Soy muy egocéntrico', 'char': 'Tulio'},
+      {'text': 'No tengo', 'char': 'Tulio'},
       {'text': 'Soy muy flojo', 'char': 'Bodoque'},
       {'text': 'No se como relajarme', 'char': 'Juanin'},
       {'text': 'Ansiedad', 'char': 'Maguito'},
-      {'text': 'No tengo ningun defecto', 'char': 'Calcetin'},
+      {'text': 'Tener rombos', 'char': 'Calcetin'},
     ],
   },
   {
@@ -65,8 +65,8 @@ const questions = [
     'answers': [
       {'text': '"¡Vivimos de la desgracia ajena!"', 'char': 'Tulio'},
       {'text': '"No es una adicción, es un estilo de vida."', 'char': 'Bodoque'},
-      {'text': '"Lo importante es ayudar"', 'char': 'Juanin'},
-      {'text': '"¡Mi show, quiero hacer mi show!"', 'char': 'Maguito'},
+      {'text': '"¡Sano como manzano!"', 'char': 'Juanin'},
+      {'text': '"¡Mi chow, quiero hacer mi chow!"', 'char': 'Maguito'},
       {'text': '"¡La justicia nunca duerme!"', 'char': 'Calcetin'},
     ],
   },
