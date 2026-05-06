@@ -146,8 +146,8 @@ class _QuizPageState extends State<QuizPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFF8F9FA),
       appBar: AppBar(
-        backgroundColor: const Color(0xFFE63946),
-        foregroundColor: Colors.white,
+        backgroundColor: const Color.fromARGB(255, 217, 30, 46),
+        foregroundColor: const Color.fromARGB(255, 229, 184, 49),
         centerTitle: true,
         title: const Text('¿Qué personaje de 31 Minutos eres?',
             style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold)),
