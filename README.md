@@ -1,2 +1,2 @@
-# flutter_app
+# flutter_app_¿Qué personaje de 31 minutos eres?
 Este proyecto es un test de personalidad inspirado en 31 Minutos desarrollado en Flutter, donde a través de una serie de preguntas podrás descubrir qué personaje se parece más a ti. Dependiendo de tus respuestas, el resultado puede ser Tulio Triviño, Juan Carlos Bodoque, Juanín Juan Harry, Maguito Explosivo o Calcetín con Rombos Man.

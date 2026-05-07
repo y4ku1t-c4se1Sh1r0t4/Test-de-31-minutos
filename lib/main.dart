@@ -246,7 +246,7 @@ class ResultPage extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.all(18),
                   decoration: BoxDecoration(
-                    color: Colors.white.withOpacity(0.2),
+                    color: Colors.white,
                     borderRadius: BorderRadius.circular(14),
                   ),
                   child: Text(data['desc'] as String,
