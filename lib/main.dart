@@ -252,7 +252,7 @@ class ResultPage extends StatelessWidget {
                   child: Text(data['desc'] as String,
                       textAlign: TextAlign.center,
                       style: const TextStyle(
-                          color: Colors.white, fontSize: 15, height: 1.6)),
+                          color: Color.fromARGB(255, 11, 0, 0), fontSize: 15, height: 1.6)),
                 ),
                 const SizedBox(height: 28),
 
